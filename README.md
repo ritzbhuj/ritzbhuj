@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ritzbhuj
 - 👀 I’m interested in Open Source and Web development
-- 🌱 I am a network engineer and I am learning programming...
+- 🌱 I am a network engineer with ISP experience. Equipment worked with consists of Mikrotik, Ubiquiti and other PTP wireless radios such as Aviat and Mimosa.
 - 📫 How to reach me ritzbhuj@gmail.com...
 
 <!---
