@@ -7,6 +7,7 @@
 - Other projects I have worked on involve System Administration and deployment on Linux environments 
 - Worked on Firewalls such as Sophos.
 - 📫 How to reach me ritzbhuj@gmail.com...
+- Consultant providing solutions required involving networks and connectivity.
 
 <!---
 ritzbhuj/ritzbhuj is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
